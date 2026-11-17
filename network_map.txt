@@ -1,0 +1,452 @@
+
+=== VLAN 172.168.0.0/24 ===
+  [+] 172.168.0.1     (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.3     (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.5     (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.6     (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.8     (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.12    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.15    (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.21    (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.23    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.26    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.27    (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.32    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.34    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.35    (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.36    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.37    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.39    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.40    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.41    (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.42    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.44    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.48    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.49    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.51    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.55    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.62    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.63    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.66    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.67    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.68    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.69    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.70    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.73    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.74    (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.76    (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.77    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.79    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.88    (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.92    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.97    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.98    (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.102   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.105   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.108   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.112   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.121   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.126   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.127   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.130   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.131   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.132   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.133   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.134   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.135   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.136   (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.137   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.138   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.139   (TCP:22)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible SSH Device
+      Open Ports:   22/SSH, 443/HTTPS
+  [+] 172.168.0.140   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.141   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.142   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.163   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.164   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.180   (TCP:80)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   80/HTTP, 443/HTTPS
+  [+] 172.168.0.181   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.182   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.183   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.193   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.195   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.200   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   8443/HTTPS-Alt
+  [+] 172.168.0.202   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.205   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
+  [+] 172.168.0.206   (TCP:22)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible SSH Device
+      Open Ports:   22/SSH, 443/HTTPS
+  [+] 172.168.0.227   (TCP:443)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Possible Web Server / Network Device
+      Open Ports:   443/HTTPS
+  [+] 172.168.0.229   (ICMP)
+      Hostname:     Unknown
+      MAC Address:  Unknown
+      Manufacturer: Unknown
+      Device Type:  Unknown Device
+      Open Ports:   None detected
